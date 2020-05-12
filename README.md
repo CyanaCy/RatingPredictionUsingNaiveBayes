@@ -12,7 +12,7 @@ pip nltk<br>
 nltk.download("stopwords")<br>
 pip install jupyter notebook
 
-## Deploy Flask Implementation Using Pythonanywhere
+## Deploy Flask Application Using Pythonanywhere
 0. Download this repo.
 1. Download dataset ***bgg-13m-reviews.csv*** from https://www.kaggle.com/jvanelteren/boardgamegeek-reviews and put it in the mysite file.
 2. Run Jypyter notebook ***RatingPredictionUsingBayes.ipynb*** to get 3 json files.
